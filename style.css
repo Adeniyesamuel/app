@@ -546,7 +546,7 @@ th button{
         margin: 70px 120px;
         align-content: center;
         justify-content: center;
-        padding:0px 30px;
+        padding:150px 30px 0px 30px;
     }
     .items{
         display: flex;
@@ -599,6 +599,10 @@ th button{
     .text-container button i{
         margin-left: 10px;
         font-size: 15px;
+    }
+
+    .container-one .image-container img{
+        margin-bottom: 150px;
     }
 
     .uses{
@@ -780,6 +784,7 @@ th button{
             width: 100%;
             border-collapse: collapse;
             border-radius: 0px 0px 30px 30px;
+            padding: 0;
             
         }
         th, td {
