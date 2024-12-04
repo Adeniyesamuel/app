@@ -486,7 +486,7 @@ table {
     border-radius: 0px 0px 10px 10px;
     align-items: center;
     justify-content: center;
-   
+   padding: 10px 30px;
 }
 
 td {
