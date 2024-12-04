@@ -43,6 +43,7 @@ nav {
 .brand {
     display: flex;
     align-items: center;
+    margin-left: 120px;
 }
 
 .brand img {
@@ -168,7 +169,7 @@ nav {
 .main-container{
     overflow: hidden;
 }
-.brand{margin-left:120px ;}
+
 
 /* Hero Section */
 .container-one {
@@ -190,7 +191,7 @@ nav {
 }
 
 .brand{
-    margin: 0px;
+    /* margin: 0px; */
 }
 .nav-button{
 color: #fff;
