@@ -189,7 +189,7 @@ nav {
     background-color: #202324;
     color: white;
     width: 100%;
-    height: 80vh;
+    height: 100vh;
     border-radius: 30px;
     margin-top: 70px; /* Adjusted to ensure it is not hidden by fixed nav */
     padding: 150px 20px 0px 20px;
@@ -322,10 +322,10 @@ color: #fff;
     border: none;
     border-radius: 50px;
     color: white;
-    font-size: 1rem;
+    font-size: 13px;
     cursor: pointer;
     margin-top: 40px;
-    width: 80%;
+    width: 70%;
     max-width: 300px;
     margin-left: auto;
     margin-right: auto;
@@ -351,7 +351,7 @@ color: #fff;
     width: 100%;
     display: flex;
     flex-direction: column;
-    margin-top: -195px;
+    margin-top: -170px;
     position: absolute;   
     align-items: center;
     padding: 50px 20px 20px 20px;
@@ -444,9 +444,9 @@ p i{
     font-size: 20px;
     
 }
-.one p{
+/* .one p{
     margin-bottom: 50px;
-}
+} */
 
 .two{
     display: flex;
