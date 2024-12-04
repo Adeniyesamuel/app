@@ -203,6 +203,7 @@ color: #fff;
     max-width: 600px; /* Prevents the text from overflowing */
     align-content: center;
     /* justify-items: center; */
+    margin-top: -150px;
 }
 
 .text-container h1 {
@@ -261,7 +262,8 @@ color: #fff;
 .image-container img {
     width: 350px;
     height: auto;
-    margin-top: 20px;
+    margin-top: -30px;
+    margin-left: -40px;
 }
 
 /* Different Destinations Section */
@@ -459,6 +461,11 @@ font-size: 15px;
 }
 
 
+.table{
+    width: 100%;
+    
+}
+
 table {
     display: block;
     overflow-x: auto;
@@ -466,6 +473,7 @@ table {
     background-color: #191b1c;
     color: #fff;
     width: 100%;
+    border-radius: 0px 0px 10px 10px;
 }
 
 td {
@@ -497,6 +505,7 @@ th button{
     margin-bottom: -2px;
     color: white;
     font-size: 20px;
+    border-radius: 10px 10px 0px 0px;
 }
 
 
@@ -752,6 +761,7 @@ th button{
             overflow: hidden;
             margin-top: 10px;
             height: fit-content;
+            width: 85%;
         }
         table {
             width: 100%;
@@ -780,7 +790,7 @@ th button{
             background-color: #191b1c;
         }
         .plan{
-            padding-right: 590px;
+            padding-right: 610px;
             padding-bottom: 50px;
             border-radius: 30px 30px 0px 0px ;
         }
