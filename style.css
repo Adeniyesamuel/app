@@ -133,6 +133,8 @@ nav {
 
 #check:checked ~ .nav-wrapper .close {
     display: block;
+    color: #fff;
+    margin-top: -30px;
 }
 
 @media (max-width: 768px) {
